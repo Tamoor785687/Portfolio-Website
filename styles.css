@@ -308,8 +308,17 @@ body {
     padding: var(--space-xs) 0;
     font-size: 0.95rem;
     letter-spacing: -0.01em;
+    --underline-width: 0;
 }
-
+.nav-link::after {
+    content: '';
+    position: absolute;
+    left: 0; bottom: -4px;
+    width: var(--underline-width);
+    height: 2px;
+    background: var(--accent-primary);
+    transition: width 0.3s ease;
+}
 .nav-link:hover,
 .nav-link.active {
     color: var(--accent-primary);
@@ -2088,4 +2097,15 @@ section {
     opacity: 0;
     transform: translateY(20px);
     transition: all 0.8s var(--transition-elegant);
+}
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+}
+
+#contactForm.shake {
+    animation: shake 0.5s ease;
 }
